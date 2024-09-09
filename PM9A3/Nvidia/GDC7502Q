@@ -1,0 +1,5 @@
+GDC7502Q.bin
+NEW FIRMWARE VERSION for  MZ1L21T9HCLS-00A07, MZ1L23T8HBLA-00A07 and MZ1L2960HCJR-00A07
+Important: Please make a Backup of your Files from the Device before Flashing, after Flash is Finished please Restart System 
+
+Samsung has found that the bridge FW could make error mode on PCIe link down under Lane reduction situation
